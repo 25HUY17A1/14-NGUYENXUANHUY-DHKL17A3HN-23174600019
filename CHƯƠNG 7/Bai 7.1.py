@@ -1,4 +1,4 @@
 from tkinter import * 
 window = Tk() 
-window.title("Hồ Thị Minh Hằng") 
+window.title("Nguyễn Xuân Huy") 
 window.mainloop()
